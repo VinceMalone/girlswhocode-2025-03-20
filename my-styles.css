@@ -1,0 +1,42 @@
+/**
+ * border-radius: how rounded the corner of a box is (#px)
+ * color:         text color
+ * font-size:     how big the text is (#px)
+ * font-weight:   how bold the text is (400, 500, 600, 700 / bold)
+ */
+
+body {
+	background-color: turquoise;
+	color: darkblue;
+}
+
+button {
+	background-color: rebeccapurple;
+	border-radius: 6px;
+	color: ghostwhite;
+	font-weight: 500;
+}
+
+h1 {
+	color: darkblue;
+	font-size: 32px;
+	font-weight: bold;
+}
+
+h2 {
+	color: darkmagenta;
+	font-size: 24px;
+	font-weight: 500;
+}
+
+h3 {
+	color: darkmagenta;
+	font-size: 18px;
+	font-weight: 500;
+}
+
+h4 {
+	color: darkblue;
+	font-size: 16px;
+	font-weight: 600;
+}
